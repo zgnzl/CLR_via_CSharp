@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\bin\Debug\Ch23-4-AddInHost.exe
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\bin\Debug\Ch23-4-AddInHost.pdb
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\bin\Debug\Ch23-2-AddIn_SDKAssembly.pdb
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\obj\Debug\Ch23-4-AddIn_Host.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\obj\Debug\Ch23-4-AddInHost.exe
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\obj\Debug\Ch23-4-AddInHost.pdb

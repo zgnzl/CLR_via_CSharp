@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\bin\Debug\Ch02-4-AppUsingMultifileLibrary.exe
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\bin\Debug\Ch02-4-AppUsingMultifileLibrary.pdb
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\bin\Debug\Ch02-3-MultiFileLibrary.pdb
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\bin\Debug\Ch02-3-RUT.netmodule
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\obj\x86\Debug\Ch02-4-AppUsingMultiFileLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\obj\x86\Debug\Ch02-4-AppUsingMultifileLibrary.exe
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\obj\x86\Debug\Ch02-4-AppUsingMultifileLibrary.pdb

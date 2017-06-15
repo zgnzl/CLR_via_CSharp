@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\bin\Debug\Ch01-1-SomeLibrary.dll
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\bin\Debug\Ch01-1-SomeLibrary.pdb
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\obj\Debug\Ch01-1-SomeLibrary.dll
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\obj\Debug\Ch01-1-SomeLibrary.pdb
+D:\book\c#\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\bin\Debug\Ch01-1-SomeLibrary.dll
+D:\book\c#\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\bin\Debug\Ch01-1-SomeLibrary.pdb
+D:\book\c#\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\obj\Debug\Ch01-1-SomeLibrary.csprojResolveAssemblyReference.cache
+D:\book\c#\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\obj\Debug\Ch01-1-SomeLibrary.dll
+D:\book\c#\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\obj\Debug\Ch01-1-SomeLibrary.pdb

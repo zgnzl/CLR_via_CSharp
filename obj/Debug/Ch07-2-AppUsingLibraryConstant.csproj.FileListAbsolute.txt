@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\bin\Debug\Ch07-2-AppUsingLibraryConstant.exe
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\bin\Debug\Ch07-2-AppUsingLibraryConstant.pdb
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\bin\Debug\Ch07-1-LibraryDefiningConstant.pdb
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\obj\Debug\Ch07-2-AppUsingLibraryConstant.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\obj\Debug\Ch07-2-AppUsingLibraryConstant.exe
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\obj\Debug\Ch07-2-AppUsingLibraryConstant.pdb

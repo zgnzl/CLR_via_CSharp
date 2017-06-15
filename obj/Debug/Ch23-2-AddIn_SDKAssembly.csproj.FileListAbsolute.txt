@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\bin\Debug\Ch23-2-AddIn_SDKAssembly.dll
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\bin\Debug\Ch23-2-AddIn_SDKAssembly.pdb
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\obj\Debug\Ch23-2-AddIn_SDKAssembly.dll
+C:\Users\Administrator\Desktop\CLR via C# 中文版 第3版\CLR_via_CSharp_3rd_Edition_Code_by_Jeffrey_Richter\obj\Debug\Ch23-2-AddIn_SDKAssembly.pdb
